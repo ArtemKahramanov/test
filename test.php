@@ -1,6 +1,6 @@
 <?php
 
-echo 'test-branch';
+echo 'master-branch';
 echo 'new';
 echo "new2";
 
