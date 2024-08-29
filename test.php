@@ -5,3 +5,4 @@ echo 'new';
 echo "new2";
 echo 'new3';
 echo 'added t.txt';
+echo 'my';
